@@ -1,0 +1,13 @@
+D:\WhiteEyeYan\Desktop\C Sharp測試\C Sharp測試\bin\Debug\C Sharp測試.exe.config
+D:\WhiteEyeYan\Desktop\C Sharp測試\C Sharp測試\bin\Debug\C Sharp測試.exe
+D:\WhiteEyeYan\Desktop\C Sharp測試\C Sharp測試\bin\Debug\C Sharp測試.pdb
+D:\WhiteEyeYan\Desktop\C Sharp測試\C Sharp測試\obj\Debug\DicePredict.csproj.CoreCompileInputs.cache
+D:\WhiteEyeYan\Desktop\C Sharp測試\C Sharp測試\obj\Debug\C Sharp測試.exe
+D:\WhiteEyeYan\Desktop\C Sharp測試\C Sharp測試\obj\Debug\C Sharp測試.pdb
+D:\WhiteEyeYan\Desktop\C Sharp測試\DicePredict\bin\Debug\DicePredict.exe.config
+D:\WhiteEyeYan\Desktop\C Sharp測試\DicePredict\bin\Debug\DicePredict.exe
+D:\WhiteEyeYan\Desktop\C Sharp測試\DicePredict\bin\Debug\DicePredict.pdb
+D:\WhiteEyeYan\Desktop\C Sharp測試\DicePredict\obj\Debug\DicePredict.csprojAssemblyReference.cache
+D:\WhiteEyeYan\Desktop\C Sharp測試\DicePredict\obj\Debug\DicePredict.csproj.CoreCompileInputs.cache
+D:\WhiteEyeYan\Desktop\C Sharp測試\DicePredict\obj\Debug\DicePredict.exe
+D:\WhiteEyeYan\Desktop\C Sharp測試\DicePredict\obj\Debug\DicePredict.pdb
