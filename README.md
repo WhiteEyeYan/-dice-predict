@@ -10,3 +10,4 @@
 爬取的網址為免費html伺服器：https://whiteeyeyan.neocities.org/  
   
 程式截圖：  
+![image](https://github.com/WhiteEyeYan/DicePredict/blob/main/screenshot/screenshot.jpg)  
