@@ -1,1 +1,1 @@
-# -dice-predict
+# DicePredict
