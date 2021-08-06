@@ -1,6 +1,0 @@
-D:\WhiteEyeYan\Desktop\C Sharp測試\C Sharp測試\bin\Release\C Sharp測試.exe.config
-D:\WhiteEyeYan\Desktop\C Sharp測試\C Sharp測試\bin\Release\C Sharp測試.exe
-D:\WhiteEyeYan\Desktop\C Sharp測試\C Sharp測試\bin\Release\C Sharp測試.pdb
-D:\WhiteEyeYan\Desktop\C Sharp測試\C Sharp測試\obj\Release\C Sharp測試.csproj.CoreCompileInputs.cache
-D:\WhiteEyeYan\Desktop\C Sharp測試\C Sharp測試\obj\Release\C Sharp測試.exe
-D:\WhiteEyeYan\Desktop\C Sharp測試\C Sharp測試\obj\Release\C Sharp測試.pdb
